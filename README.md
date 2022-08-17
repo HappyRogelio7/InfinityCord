@@ -42,7 +42,7 @@ InfinityCord requires **Java 8** or above, if you use **GeyserMC** use the versi
 <dependency>
     <groupId>com.github.happyrogelio7.infinitycord</groupId>
     <artifactId>infinitycord-api</artifactId>
-    <version>1.19-R0.1-SNAPSHOT-002</version>
+    <version>1.19-R0.1-SNAPSHOT-003</version>
     <scope>provided</scope>
 </dependency>
  ```

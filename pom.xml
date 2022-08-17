@@ -13,7 +13,7 @@
     <url>https://github.com/HappyRogelio7/InfinityCord</url>
 
     <modules>
-        <module>InfinityCord-Proxy</module>
+        <module>InfinityCord-Code/InfinityCord-Proxy</module>
     </modules>
 
     <build>
