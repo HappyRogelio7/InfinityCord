@@ -47,11 +47,38 @@ InfinityCord requires **Java 8** or above, if you use **GeyserMC** use the versi
 </dependency>
  ```
 
+---
+
 ## How To (Compiling From Source)
 
-To compile InfinityCord, you need JDK8, git, bash, maven, and an internet connection.
+To compile InfinityCord, you need JDK17, git, bash, maven.
 
-Clone this repo, run `./infinitycord b` from *bash*, get jar from InfinityCord-Proxy/bootstrap/target/
+Clone the repository with the following command:
+```bash
+$ git clone https://github.com/HappyRogelio7/InfinityCord.git
+```
+
+Once downloaded in the git terminal use the following command:
+
+```bash
+$ cd InfinityCord/InfinityCord-Code/InfinityCord-Proxy
+```
+
+Now inside the directory you execute the following maven command:
+
+```bash
+$ mvn clean install
+```
+
+Then you will find the compiled in the following folder
+
+```bash
+InfinityCord/InfinityCord-Code/InfinityCord-Proxy/bootstrap/target/
+```
+
+
+--
+
 
 ## Join us
 
