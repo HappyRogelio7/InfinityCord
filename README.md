@@ -1,6 +1,8 @@
 InfinityCord
 =========
 
+# The current version of this project is deprecated and will soon be updated to a new, properly updated project.
+
 InfinityCord is a fork of the well-known [BungeeCord](https://github.com/SpigotMC/BungeeCord) server teleportation suite.
 
 Waterfall focuses on three main areas:
